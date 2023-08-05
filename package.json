@@ -1,5 +1,5 @@
 {
-  "name": "autonpm",
+  "name": "@hrbolek/autonpm",
   "version": "1.0.0",
   "description": "to demonstrate work with github and npm",
   "main": "index.js",
