@@ -18,5 +18,8 @@
   },
   "homepage": "https://github.com/hrbolek/autonpm#readme",
   "dependencies": {
+  },
+  "engines": {
+    "node": ">=17.0.0"
   }
 }
