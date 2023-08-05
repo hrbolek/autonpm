@@ -1,0 +1,19 @@
+{
+  "name": "autonpm",
+  "version": "1.0.0",
+  "description": "to demonstrate work with github and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrbolek/autonpm.git"
+  },
+  "author": "profesor Hrbolek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrbolek/autonpm/issues"
+  },
+  "homepage": "https://github.com/hrbolek/autonpm#readme"
+}
