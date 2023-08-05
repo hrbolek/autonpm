@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/hrbolek/autonpm/issues"
   },
-  "homepage": "https://github.com/hrbolek/autonpm#readme"
+  "homepage": "https://github.com/hrbolek/autonpm#readme",
+  "dependencies": {
+  }
 }
